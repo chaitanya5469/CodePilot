@@ -17,7 +17,7 @@ It provides real-time suggestions, error detection, and learning resources to bo
 ## 🛠️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/codepilot.git
+   git clone https://github.com/chaitanya5469/CodePilot.git
 
 2. Navigate to the project folder:
    cd codepilot
@@ -30,10 +30,6 @@ It provides real-time suggestions, error detection, and learning resources to bo
 
 ---
 
-## 📸 Screenshots  
-_Add screenshots or GIFs here to showcase the UI/UX._
-
----
 
 ## 🤝 Contributing
 Contributions are welcome!  
@@ -46,10 +42,7 @@ To contribute:
 
 ---
 
-## 🧑‍💻 Authors
-- **Your Name** – [@yourgithub](https://github.com/yourgithub)
 
----
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
